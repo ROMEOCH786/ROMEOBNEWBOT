@@ -1,3 +1,4 @@
+pyproject.toml-based
 aiofiles
 aiogram
 aiohttp[speedups]
