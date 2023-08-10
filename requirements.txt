@@ -67,7 +67,7 @@ pydub
 pykeyboard
 pymongo>=3.10
 pynewtonmath
-pyproject-toml==0.0.10
+pyproject.toml==0.0.10
 pyrate-limiter
 pyrogram==1.4.16
 python-arq
